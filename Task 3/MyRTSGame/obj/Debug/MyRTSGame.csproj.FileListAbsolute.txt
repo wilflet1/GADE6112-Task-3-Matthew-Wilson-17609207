@@ -1,0 +1,18 @@
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\bin\Debug\MyRTSGame.exe.config
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\bin\Debug\MyRTSGame.exe
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\bin\Debug\MyRTSGame.pdb
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\obj\Debug\MyRTSGame.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\obj\Debug\MyRTSGame.Properties.Resources.resources
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\obj\Debug\MyRTSGame.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\obj\Debug\MyRTSGame.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\obj\Debug\MyRTSGame.exe
+C:\Users\matth\source\repos\MyRTSGame\MyRTSGame\obj\Debug\MyRTSGame.pdb
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\obj\Debug\MyRTSGame.Form1.resources
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\obj\Debug\MyRTSGame.Properties.Resources.resources
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\obj\Debug\MyRTSGame.csproj.GenerateResource.Cache
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\obj\Debug\MyRTSGame.csproj.CoreCompileInputs.cache
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\obj\Debug\MyRTSGame.pdb
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\bin\Debug\MyRTSGame.exe.config
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\bin\Debug\MyRTSGame.exe
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\bin\Debug\MyRTSGame.pdb
+C:\Users\17609207\Downloads\MyRTSGame (2)\MyRTSGame\obj\Debug\MyRTSGame.exe
